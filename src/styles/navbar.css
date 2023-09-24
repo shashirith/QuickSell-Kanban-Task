@@ -1,0 +1,38 @@
+.dd-cnt{
+    display: flex;
+    flex-direction: column;
+}
+
+.btn {
+    display: flex;
+    flex-direction: row;
+    padding: 2px 5px;
+    align-items: center;
+    gap: 5px;
+    background-color: white;
+    border-style: solid;
+    outline: none;
+    border-color: rgb(224, 224, 224);
+    border-radius: 2px;
+  }
+  .settingIcon {
+    transform: rotate(90deg);
+  }
+  .title {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+  }
+.dd{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    position: absolute;
+    top:30px;
+    left:0px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.dd-profile{
+    position: relative;
+    width:80px;
+}

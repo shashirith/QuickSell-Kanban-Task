@@ -1,0 +1,28 @@
+.menuBar {
+  position: absolute;
+  bottom: -110px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px;
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  z-index: 10;
+}
+.menuBar-cnt {
+  display: flex;
+  justify-content: space-between;
+}
+.label {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+  }
+
+.opn {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+  }
+  
