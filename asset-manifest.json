@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/QuickSell-Kanban-Task/static/css/main.1f2269d2.css",
+    "main.js": "/QuickSell-Kanban-Task/static/js/main.c02379a5.js",
+    "static/js/787.24e1332b.chunk.js": "/QuickSell-Kanban-Task/static/js/787.24e1332b.chunk.js",
+    "index.html": "/QuickSell-Kanban-Task/index.html",
+    "main.1f2269d2.css.map": "/QuickSell-Kanban-Task/static/css/main.1f2269d2.css.map",
+    "main.c02379a5.js.map": "/QuickSell-Kanban-Task/static/js/main.c02379a5.js.map",
+    "787.24e1332b.chunk.js.map": "/QuickSell-Kanban-Task/static/js/787.24e1332b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f2269d2.css",
+    "static/js/main.c02379a5.js"
+  ]
+}
